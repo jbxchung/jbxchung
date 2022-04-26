@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Brandon
-- 👀 I’m interested in almost everything! Full stack including devops/infrastructure.
-- 📫 How to reach me: email brandon@jbxchung.dev
+- Hi, I’m Brandon - check out my website at https://jbxchung.dev
+- Full stack development, including CI/CD
+- Email me at brandon@jbxchung.dev
 
 <!---
 jbxchung/jbxchung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
